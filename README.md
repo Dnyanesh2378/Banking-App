@@ -1,6 +1,8 @@
 # PY BANK — Streamlit + Neon PostgreSQL
 
-This project converts the original command-line banking application into a Streamlit web app. Excel storage is replaced with Neon PostgreSQL.
+## 🚀 Live Demo
+
+**Try PY BANK online:** [Open PY BANK Banking App](https://banking-app-ug57zeutkwqrhra3yhudqv.streamlit.app/)
 
 ## Features
 
